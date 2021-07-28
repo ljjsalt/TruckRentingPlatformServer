@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">货车老铁</string>
+
+    <!-- Strings related to login&register -->
+    <string name="login_title">登陆界面</string>
+    <string name="regi_title">注册界面</string>
+    <string name="prompt_email">用户名</string>
+    <string name="action_register">注册</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">注册</string>
+    <string name="error_invalid_email">无效用户名</string>
+    <string name="error_invalid_password">密码长度不足</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to Mainpage -->
+    <string name="start">出发地</string>
+    <string name="end">目的地</string>
+    <string name="goodsV">货物运输单位</string>
+    <string name="goodsT">货物运输时间</string>
+    <string name="toMyDriver">优先发送给我的司机</string>
+    <string name="GoWithGoods">与货同行</string>
+
+    <string name="evaluation">评价</string>
+    <string name="complain">举报</string>
+    <string name="history">订单信息</string>
+    <string name="myDriver">我的司机</string>
+    <string name="myCoupon">我的抵价券</string>
+    <string name="exchange">积分兑换</string>
+
+
+    <!-- Strings related to Menu -->
+    <string name="setup">设置</string>
+    <string name="notification">通知</string>
+    <string name="quit">退出帐号</string>
+    <string name="title_activity_regi">注册</string>
+</resources>
